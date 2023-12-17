@@ -1,0 +1,141 @@
+h1 {
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 40px;
+    color: black;
+    opacity: 80%;
+}
+
+
+.letter {
+    text-align: center;
+    vertical-align: center;
+    font-size: 65px;
+}
+
+.row {
+    text-align: center;
+}
+
+.box {
+    border: 3px solid lightGray;
+    height: 75px;
+    width: 75px;
+    margin: 5px auto;
+    margin-left: 3px;
+    margin-right: 3px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: lightGray;
+    border-radius: 5%;
+}
+
+.letter {
+    font-size: 50px;
+    text-align: center;
+    vertical-align: center;
+    display: inline-block;
+    margin: 8px;
+}
+
+#win {
+    display: none;
+    position: absolute;
+    background-color: dimGray;
+    left: 42.8%;
+    top: 7%;
+    height: 50px;
+    width: 200px;
+    border-radius: 10%;
+}
+
+#winp {
+    font-size: 25px;
+    color: white;
+    vertical-align: center;
+    margin: auto;
+    line-height: 50px;
+    padding: 0px;
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+}
+
+#random {
+    font-size: 25px;
+    padding: 7px;
+    margin-right: 20px;
+    background-color: orange;
+    color: white;
+    border-color: orange;
+    border-radius: 10%;
+}
+
+#choose {
+    font-size: 25px;
+    margin-left: 20px;
+    background-color: orange;
+    opacity: 50%;
+}
+
+
+#keyboard {
+    display: none;
+}
+
+.keyrow {
+    text-align: center;
+}
+
+.key {
+    border: 2px solid gray;
+    height: 25px;
+    width: 25px;
+    margin: 2px auto;
+    margin-left: 2px;
+    margin-right: 2px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10%
+}
+
+.keyletter {
+    font-size: 15px;
+    text-align: center;
+    vertical-align: center;
+    display: inline-block;
+    margin: 4px;
+}
+
+#enter {
+    width: 43px;
+}
+
+#backspace {
+    width: 40px;
+}
+
+
+
+#notword {
+    display: none;
+    position: absolute;
+    background-color: dimGray;
+    left: 42.8%;
+    top: 7%;
+    height: 50px;
+    width: 200px;
+    border-radius: 10%;
+}
+
+#notword p {
+    font-size: 25px;
+    color: white;
+    vertical-align: center;
+    margin: auto;
+    line-height: 50px;
+    padding: 0px;
+    text-align: center;
+}
