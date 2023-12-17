@@ -13,9 +13,7 @@ fetch('https://raw.githubusercontent.com/dkand-i/wordle/main/words_alpha.txt')
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 //// TO DO
-// formatting 
 // better dictionary list
-// fade in and out
 // make shareable
 
 // DEFINING INITIAL/HTML VARIABLES
